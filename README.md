@@ -16,4 +16,4 @@ THEN the deposits or expenses added while they were offline are added to their t
 ### Link
 https://igotbills.herokuapp.com/
 
-![image](public/assets/Budget Tracker.png)
+![image](assets/Budget-Tracker.png)
